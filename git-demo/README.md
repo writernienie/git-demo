@@ -2,8 +2,6 @@
 
 This is the second file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Some ridiculous text lines here...
-
-drinking vinegar is great for some kind of random health...thing...
+1. index.html
